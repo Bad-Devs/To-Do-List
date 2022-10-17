@@ -51,6 +51,7 @@ html {
 
 .header h1{
     font-size: 60px;
+    /* font-style: none; */
     font-family: 'Montserrat', serif;
 }
 
